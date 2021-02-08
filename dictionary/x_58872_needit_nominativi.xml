@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Nominativi" max_length="40" name="x_58872_needit_nominativi" type="collection">
+        <element label="Cognome" max_length="100" name="cognome" type="string"/>
+        <element label="Email" max_length="150" name="email" type="string"/>
+        <element label="Nome" max_length="100" name="nome" type="string"/>
+    </element>
+</database>
